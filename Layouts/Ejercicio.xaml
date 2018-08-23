@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Layouts.Ejercicio">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="Aqua">
+            <BoxView
+                     BackgroundColor="Blue"
+                     HeightRequest="100">
+            </BoxView>
+            <Button BackgroundColor="Green"
+                    HorizontalOptions="Center"
+                    BorderRadius="50" 
+                    WidthRequest="100"
+                    HeightRequest="100"/>
+
+            <Label Text="Nombre de Usuario"
+                   HorizontalOptions="Center"
+                   TextColor="Purple"
+                   />
+
+         
+             <Entry Placeholder="Ingrese Usuario"
+                    BackgroundColor="Aqua"
+             />
+
+           <StackLayout Orientation="Horizontal"
+                        Margin="8">
+                <Label Text="Edad"
+                       WidthRequest="110"/>
+                <Entry Placeholder="Ingrese Edad"
+                       HorizontalOptions="FillAndExpand"/>
+                
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal"
+                         Margin="8">
+                <Label Text="Intereses"
+                       WidthRequest="110"/>
+                <Entry Placeholder="Ingrese sus Intereses"
+                       HorizontalOptions="FillAndExpand"
+                       />
+                
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal"
+                         Margin="8">
+                <Label Text="Aprende"
+                       WidthRequest="110"/>
+                <Entry Placeholder="Xamarin Forms, ASP.NET"
+                       HorizontalOptions="FillAndExpand"/>
+                
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal"
+                         Margin="8">
+                <Label Text="Otros"
+                       WidthRequest="110"/>
+                <Entry Placeholder="Xamarin Forms, ASP.NET"
+                       HorizontalOptions="FillAndExpand"/>
+                
+            </StackLayout>
+              
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

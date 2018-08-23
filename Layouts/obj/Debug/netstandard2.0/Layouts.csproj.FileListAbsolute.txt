@@ -1,0 +1,9 @@
+/Users/vivelabtunja25/Projects/Layouts/Layouts/bin/Debug/netstandard2.0/Layouts.deps.json
+/Users/vivelabtunja25/Projects/Layouts/Layouts/bin/Debug/netstandard2.0/Layouts.dll
+/Users/vivelabtunja25/Projects/Layouts/Layouts/bin/Debug/netstandard2.0/Layouts.pdb
+/Users/vivelabtunja25/Projects/Layouts/Layouts/obj/Debug/netstandard2.0/Layouts.csprojResolveAssemblyReference.cache
+/Users/vivelabtunja25/Projects/Layouts/Layouts/obj/Debug/netstandard2.0/Layouts.csproj.CoreCompileInputs.cache
+/Users/vivelabtunja25/Projects/Layouts/Layouts/obj/Debug/netstandard2.0/Layouts.AssemblyInfoInputs.cache
+/Users/vivelabtunja25/Projects/Layouts/Layouts/obj/Debug/netstandard2.0/Layouts.AssemblyInfo.cs
+/Users/vivelabtunja25/Projects/Layouts/Layouts/obj/Debug/netstandard2.0/Layouts.dll
+/Users/vivelabtunja25/Projects/Layouts/Layouts/obj/Debug/netstandard2.0/Layouts.pdb

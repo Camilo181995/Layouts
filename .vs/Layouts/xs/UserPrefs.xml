@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{C84A4E96-6B2D-48B4-AC68-3A12CF6C2657}|Default">
+  <MonoDevelop.Ide.ItemProperties.Layouts.Android PreferredExecutionTarget="9e8339af-c751-46e4-9521-bb1e752d1588" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Layouts/DemoGrid.xaml">
+    <Files>
+      <File FileName="Layouts/DemoGrid.xaml" Line="9" Column="40" />
+      <File FileName="Layouts/DemoGrid.xaml.cs" Line="1" Column="1" />
+      <File FileName="Layouts/obj/Debug/netstandard2.0/DemoGrid.xaml.g.cs" Line="6" Column="77" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Layouts.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E1213BC7-9447-4CA4-868D-3CB5D33C98C8" />
+  <MultiItemStartupConfigurations />
+</Properties>
